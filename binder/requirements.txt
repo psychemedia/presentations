@@ -1,3 +1,5 @@
 git+https://github.com/mwouts/jupytext.git
 
+jupyter_contrib_nbextensions
+
 RISE

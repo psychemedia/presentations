@@ -1,2 +1,4 @@
+jupyter contrib nbextension install --user
+
 jupyter nbextension install --py --user jupytext
 jupyter nbextension enable --py --user jupytext
