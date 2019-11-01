@@ -9,7 +9,7 @@ The [RISE chalkboard](https://rise.readthedocs.io/en/maint-5.5/customize.html#en
 
 ---
 
-OU Residential School, Robot Talk, July, 2019: *Whose Job Is It Anyway?* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/presentations/master?filepath=OUResSchool-RobotJobs%2FOU-RobotTalk-Whose-Job-Anyway.md)
+OU Residential School, Robot Talk, July, 2019: *Whose Job Is It Anyway?* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/presentations/master?filepath=OUResSchool-RobotJobs%2FOU-Robot-Talk-Whose-Job-Anyway.md)
 
 > A sideways looks at the jobs robots are taking away from us, or, erm, maybe we're complicit in giving to them?
 
