@@ -17,6 +17,6 @@ OU Residential School, Robot Talk, July, 2019: *Whose Job Is It Anyway?* [![Bind
 
 OpenTEL, November 2019: *Deriving Interactive, Read/Write Course Materials From OU-XML* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/presentations/master?filepath=openTEL_11_19%2Fopentel_nov_19.md)
 
-> A quick overview of some of the things you can do when you map OU-XML onto markdown and add some Jupytext, after an early detour and recap of the past, take two, on treating OU-XML as a bit og a graph.
+> A quick overview of some of the things you can do when you map OU-XML onto markdown and add some Jupytext, after an early detour and recap of the past, take two, on treating OU-XML as a bit of a graph.
 
 ---
