@@ -144,7 +144,9 @@ This supports round-tripping between documents types.
   - Netflix Polynote
 <!-- #endregion -->
 
+<!-- #region slideshow={"slide_type": "slide"} -->
 <img src="presentation_figures/testing_00_03_ipynb___Polynote.png" />
+<!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 # The Medium Makes Things Possible...
