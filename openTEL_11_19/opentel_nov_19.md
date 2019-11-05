@@ -75,9 +75,25 @@ __github.com/innovationOUtside__
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
+# Going Back to the Future
+The web was intended as a read-write medium.
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "slide"} -->
 # Jupytext
 
 <img src="presentation_figures/jupyter_md_nb.png" />
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "slide"} -->
+# Jupytext
+
+Provides a set of tools for:
+
+- editing text formats in a notebook environment;
+- converting between  text formats and `.ipynb` JSON notebook format;
+- pairing documents (for example, `.md` and `.ipynb`.
+
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -85,7 +101,22 @@ __github.com/innovationOUtside__
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
+# Jupytext Markdown
+
+"Extends" markdown documents to accept metadata fields that meaningful in the jupyter `.ipynb` document format.
+
+This supports round-tripping between documents types.
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "slide"} -->
 <img src='presentation_figures/rise_slide_md.png' />
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "slide"} -->
+# Reimagining Activities for the Read-Write Web
+
+- *work in progress*: elements of TM112 (private repo access on request);
+- *coming soon*: various OpenLearn examples (public repo access).
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -98,6 +129,18 @@ __github.com/innovationOUtside__
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 <img src="presentation_figures/tm112_nb_activity.png" />
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "slide"} -->
+# Alternative Authoring Environments
+
+
+- markdown:
+    - text editor;
+    - markdown editor
+- `.ipynb` notebook format
+  - Jupyter notebooks
+  - Netflix Polynote
 <!-- #endregion -->
 
 <img src="presentation_figures/testing_00_03_ipynb___Polynote.png" />
