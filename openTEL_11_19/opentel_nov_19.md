@@ -198,6 +198,12 @@ Can you predict the output that is printed to the screen by this revised bit of 
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 # Github
+
+- file sharing;
+- version control (branches);
+- comment and review;
+- "blame";
+- change analysis.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
@@ -206,4 +212,12 @@ Can you predict the output that is printed to the screen by this revised bit of 
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 <img src='presentation_figures/githubdiff.png' />
+<!-- #endregion -->
+
+<!-- #region slideshow={"slide_type": "slide"} -->
+# Where Next?
+
+- OpenLearn demos *(suggestions?)*
+- module transformations / treatments *(on request)*;
+- internal projects??? *(appy to help you pitch one / join in on one...*.
 <!-- #endregion -->
