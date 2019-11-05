@@ -100,6 +100,8 @@ __github.com/innovationOUtside__
 <img src="presentation_figures/tm112_nb_activity.png" />
 <!-- #endregion -->
 
+<img src="presentation_figures/testing_00_03_ipynb___Polynote.png" />
+
 <!-- #region slideshow={"slide_type": "slide"} -->
 # The Medium Makes Things Possible...
 
