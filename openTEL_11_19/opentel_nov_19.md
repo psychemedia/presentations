@@ -137,7 +137,8 @@ This supports round-tripping between documents types.
 
 - markdown:
     - text editor;
-    - markdown editor
+    - markdown editor;
+    - JupyterLab (right click on `.md` file in file listing);
 - `.ipynb` notebook format
   - Jupyter notebooks
   - Netflix Polynote
@@ -217,7 +218,7 @@ Can you predict the output that is printed to the screen by this revised bit of 
 <!-- #region slideshow={"slide_type": "slide"} -->
 # Where Next?
 
-- OpenLearn demos *(suggestions?)*
+- OpenLearn demos *(suggestions?)* — examples at: https://github.com/ouseful-demos/openlearn_md
 - module transformations / treatments *(on request)*;
 - internal projects??? *(appy to help you pitch one / join in on one...*.
 <!-- #endregion -->
